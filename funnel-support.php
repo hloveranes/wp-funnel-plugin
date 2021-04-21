@@ -5,11 +5,11 @@
  */
  /*
  Plugin Name: Funnel Support
- Plugin URI: https://github.com/Devy-tech
+ Plugin URI: https://github.com/hloveranes/wp-funnel-plugin
  Description: Custom plugin like cartflows funnel
  Version: 0.0.1
  Author: Devy-tech
- Author URI: https://github.com/Devy-tech
+ Author URI: https://github.com/hloveranes
  License: GPLv2 or Later
  Text Domain: funnel-support
  */
